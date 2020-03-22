@@ -2,18 +2,18 @@
 
 Screenshot
 
-<img src="screenshot/screenshot(5).png" />
+<img src="screenshot/Screenshot(5).png" />
 
-<img src="screenshot/screenshot(6).png" />
+<img src="screenshot/Screenshot(6).png" />
 
-<img src="screenshot/screenshot(7).png" />
+<img src="screenshot/Screenshot(7).png" />
 
-<img src="screenshot/screenshot(8).png" />
+<img src="screenshot/Screenshot(8).png" />
 
-<img src="screenshot/screenshot(9).png" />
+<img src="screenshot/Screenshot(9).png" />
 
-<img src="screenshot/screenshot(10).png" />
+<img src="screenshot/Screenshot(10).png" />
 
-<img src="screenshot/screenshot(11).png" />
+<img src="screenshot/Screenshot(11).png" />
 
-<img src="screenshot/screenshot(12).png" />
+<img src="screenshot/Screenshot(12).png" />
